@@ -3,7 +3,7 @@
 Dos trabajos, en este repo:
 
 1. **Flyer** (carteleras FASEN/FADA + Instagram) — copy cerrado abajo; vos diseñás.
-2. **Hermosear** `templates/page/` (y si da, `templates/card/`) — una plantilla que se rellena por cada estudiante.
+2. **Hermosear** `templates/page/` (y si da, `templates/card/`) — una plantilla que se **rellena con el PDF** de cada estudiante. Vos no armás el contenido; el contenido viene del CV.
 
 El flyer **no** es la página del cliente. El flyer vende. La plantilla es lo que el estudiante publica.
 
@@ -19,7 +19,7 @@ Copy fijo (se puede acortar; no se cambia precio ni qué incluye):
 | Sub | Página web + PDF + tarjeta con QR. Para estudiantes que buscan pasantía o primer laburo. |
 | Precio | **Gs. 200.000** · pago único |
 | Letra chica | Incluye 12 meses de hosting. Sin cuota mensual. |
-| CTA | Escaneá y escribí. Mandá tu CV y en pocos días tenés la página. |
+| CTA | Escaneá y escribí. Mandá tu CV en PDF y en pocos días tenés la página. |
 | Contacto | Kyrian Weiss · 0985 724 135 (+595 985 724135) |
 | Marca | AI Whisperers / paragu-ai CV (no “Erebus”) |
 
@@ -30,13 +30,12 @@ Copy fijo (se puede acortar; no se cambia precio ni qué incluye):
 - Tarjeta descargable con QR de **tu** link (vos la imprimís)
 - 12 meses de hosting incluidos
 
-**Qué tienen que mandar (tiene que estar en el flyer):**
+**Qué tienen que mandar (en el flyer, corto):**
 
-1. CV actual en PDF  
-2. Foto de perfil (se tiene que ver la cara)  
-3. Cómo quiere que figure el nombre  
-4. Carrera / a qué se postula  
-5. WhatsApp  
+1. **Tu CV en PDF** (el que ya tenés)
+2. Tu WhatsApp  
+
+Si la foto del PDF no se ve, se la pedimos por el chat. Nombre y carrera salen del PDF.
 
 **QRs en el flyer**
 
@@ -77,7 +76,7 @@ Demo de cómo se ve rellenada: [`demos/ana-duarte/`](../demos/ana-duarte/).
 - Enlace o botón para **descargar el CV en PDF**
 - Enlace o botón para **descargar la tarjeta** (PDF)
 
-**Podés cambiar:** color, tipo, layout, foto, detalles. Una plantilla para todos; no un diseño distinto por alumno en el v1 (si un caso lo pide, se habla).
+**Podés cambiar:** color, tipo, layout, detalles. Una plantilla para todos. El texto de cada alumno **viene de su PDF**; no es copy que vos inventás.
 
 **No hace falta:** menú, login, “volver al listado”, blog, SEO pesado.
 

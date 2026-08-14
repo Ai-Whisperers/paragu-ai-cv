@@ -1,6 +1,6 @@
 # paragu-ai CV
 
-CV web para estudiantes: **una persona, un link, una tarjeta**. Sin cuentas, sin panel, sin lista pública de CVs.
+CV web para estudiantes: **mandan su PDF, nosotros publicamos una página estática** con ese contenido. Una persona, un link, una tarjeta. Sin cuentas, sin panel.
 
 El estudiante recibe su URL por WhatsApp. La pega en Instagram, LinkedIn o mail, o genera más QRs. Un reclutador abre el link y le escribe por WhatsApp.
 
@@ -15,6 +15,7 @@ El estudiante recibe su URL por WhatsApp. La pega en Instagram, LinkedIn o mail,
 
 Docs para Luana: [`docs/LUANA.md`](docs/LUANA.md)  
 Producto: [`docs/PRODUCT.md`](docs/PRODUCT.md)  
+Cómo se arma cada página (PDF → HTML): [`docs/PRODUCTION.md`](docs/PRODUCTION.md)  
 Operativa WhatsApp: [`docs/OPS.md`](docs/OPS.md)
 
 ## Cómo está armado

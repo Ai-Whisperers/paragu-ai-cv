@@ -5,21 +5,21 @@
 
 ## Qué es
 
-Una **página pública** por persona, con URL propia.
+El estudiante **manda el CV que ya tiene en PDF**. Nosotros armamos una **página HTML estática** con ese contenido (no le pedimos que vuelva a cargar cada dato a mano).
 
 - Sin usuario, sin contraseña, sin panel.
 - Quien tiene el link, ve el CV.
 - El cliente usa ese link como cualquier otra URL (bio, LinkedIn, mail) y puede armar QRs por su cuenta.
-- Nosotros también entregamos una **tarjeta descargable** cuyo QR apunta a **ese mismo link**.
+- Entregamos también una **tarjeta descargable** cuyo QR apunta a **ese mismo link**, y el PDF original para postular.
 
-No hay directorio de CVs ni base de usuarios.
+Cómo se produce: [`PRODUCTION.md`](PRODUCTION.md).
 
 ## Qué incluye (Gs. 200.000, un pago)
 
 | Entrega | Detalle |
 |---|---|
-| Página | Foto, nombre, objetivo, educación, experiencia/proyectos, habilidades, enlaces. Botón WhatsApp del estudiante |
-| PDF del CV | Mismo contenido, para postulaciones que piden archivo |
+| Página | HTML estático armado **a partir del PDF** del alumno. Botón WhatsApp del estudiante |
+| PDF del CV | El mismo archivo que mandó, para postulaciones que piden archivo |
 | Tarjeta | PDF 90×50 mm para imprimir, QR del link. AIW no imprime |
 | QR PNG | El mismo QR, suelto, por si lo pegan en otra pieza |
 | Hosting | 12 meses. Después: Gs. 50.000 / año, opcional. Sin mensualidad |
