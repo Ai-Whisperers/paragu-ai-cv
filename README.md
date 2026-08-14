@@ -23,7 +23,7 @@ Operativa WhatsApp: [`docs/OPS.md`](docs/OPS.md)
 ```
 templates/page/     ← plantilla de la página (Luana diseña acá)
 templates/card/     ← plantilla de tarjeta 90×50 mm (QR del link)
-demos/ana-duarte/   ← un CV demo (página suelta, no un directorio)
+demos/ana-samaniego/ ← primer ejemplo real (página suelta, no un directorio)
 people/             ← un folder por cliente real (no se listan en un index)
 scripts/make_qr.py  ← QR PNG a partir de una URL
 docs/flyer/         ← copy + QR de WhatsApp para el flyer
@@ -34,7 +34,7 @@ No hay `index.html` de “todos los CVs”. Cada cliente es una carpeta con su `
 ## Vista local de un CV
 
 ```text
-cd demos/ana-duarte
+cd demos/ana-samaniego
 python -m http.server 8765
 ```
 
@@ -44,7 +44,7 @@ Abrir http://127.0.0.1:8765/
 
 ```text
 pip install -r requirements.txt
-python scripts/make_qr.py "https://ejemplo.com/cv/ana" -o people/ana-duarte/qr.png
+python scripts/make_qr.py "https://ejemplo.com/cv/ana-samaniego" -o people/ana-samaniego/qr.png
 ```
 
 Ese PNG es el que va en la tarjeta. El mismo link es el que el cliente comparte.

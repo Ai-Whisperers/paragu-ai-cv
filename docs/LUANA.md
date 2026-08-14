@@ -42,7 +42,7 @@ Si la foto del PDF no se ve, se la pedimos por el chat. Nombre y carrera salen d
 | QR | Destino | Etiqueta |
 |---|---|---|
 | 1 | WhatsApp — PNG en [`flyer/qr-whatsapp.png`](flyer/qr-whatsapp.png) | Escribime |
-| 2 | **Un** CV demo (una página, no un listado). Hoy: `demos/ana-duarte/` cuando esté online | Mirá un ejemplo |
+| 2 | **Un** CV demo (una página, no un listado). Hoy: `demos/ana-samaniego/` cuando esté online | Mirá un ejemplo |
 
 URL del QR 1 (ya está en el PNG):
 
@@ -66,7 +66,7 @@ Entregá el arte en este repo (`docs/flyer/arte/`) o Drive, como te quede mejor.
 
 Archivos: [`templates/page/index.html`](../templates/page/index.html) y [`templates/page/styles.css`](../templates/page/styles.css).
 
-Demo de cómo se ve rellenada: [`demos/ana-duarte/`](../demos/ana-duarte/).
+Demo de cómo se ve rellenada (PDF real): [`demos/ana-samaniego/`](../demos/ana-samaniego/).
 
 **Tiene que quedar (no sacar):**
 
