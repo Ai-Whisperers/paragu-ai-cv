@@ -3,7 +3,7 @@
 Dos trabajos, en este repo:
 
 1. **Flyer** (carteleras FASEN/FADA + Instagram) — copy cerrado abajo; vos diseñás.
-2. **Hermosear** `templates/page/` (y si da, `templates/card/`) — una plantilla que se **rellena con el PDF** de cada estudiante. Vos no armás el contenido; el contenido viene del CV.
+2. **Hermosear** `templates/page/` (y si da, `templates/card/`) — la plantilla es barra + WhatsApp + **el PDF a la vista**. Vos no transcribís el currículum.
 
 El flyer **no** es la página del cliente. El flyer vende. La plantilla es lo que el estudiante publica.
 
@@ -70,15 +70,12 @@ Demo de cómo se ve rellenada (PDF real): [`demos/ana-samaniego/`](../demos/ana-
 
 **Tiene que quedar (no sacar):**
 
-- Nombre, título/objetivo, foto (o iniciales si no hay foto)
-- Botón **Escribime por WhatsApp** (link `wa.me` del estudiante)
-- Secciones: objetivo, educación, experiencia/proyectos, habilidades
-- Enlace o botón para **descargar el CV en PDF**
-- Enlace o botón para **descargar la tarjeta** (PDF)
+- El **PDF del alumno visible** en la página (no solo un link de descarga)
+- Botón **WhatsApp** (link `wa.me` del estudiante)
 
-**Podés cambiar:** color, tipo, layout, detalles. Una plantilla para todos. El texto de cada alumno **viene de su PDF**; no es copy que vos inventás.
+**Podés cambiar:** barra de arriba, colores, tipo, cómo se ve el botón. El CV en sí no se rediseña en v1: se muestra el PDF que mandaron.
 
-**No hace falta:** menú, login, “volver al listado”, blog, SEO pesado.
+**No hace falta:** transcribir el CV a secciones, menú, login, listado de alumnos.
 
 La tarjeta: [`templates/card/`](../templates/card/) — 90×50 mm, nombre + rol + QR del **link de esa persona**. El QR lo genera el script; vos definís cómo se ve la tarjeta alrededor.
 

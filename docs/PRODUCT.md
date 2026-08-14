@@ -5,12 +5,12 @@
 
 ## Qué es
 
-El estudiante **manda el CV que ya tiene en PDF**. Nosotros armamos una **página HTML estática** con ese contenido (no le pedimos que vuelva a cargar cada dato a mano).
+El estudiante **manda el CV que ya tiene en PDF**. La página **muestra ese PDF** (tal cual) y un botón de WhatsApp para que el reclutador le escriba.
 
 - Sin usuario, sin contraseña, sin panel.
 - Quien tiene el link, ve el CV.
-- El cliente usa ese link como cualquier otra URL (bio, LinkedIn, mail) y puede armar QRs por su cuenta.
-- Entregamos también una **tarjeta descargable** cuyo QR apunta a **ese mismo link**, y el PDF original para postular.
+- El cliente usa ese link en Instagram, LinkedIn, mail, o genera QRs.
+- Entregamos también una **tarjeta descargable** cuyo QR apunta a **ese mismo link**.
 
 Cómo se produce: [`PRODUCTION.md`](PRODUCTION.md).
 
@@ -18,8 +18,7 @@ Cómo se produce: [`PRODUCTION.md`](PRODUCTION.md).
 
 | Entrega | Detalle |
 |---|---|
-| Página | HTML estático armado **a partir del PDF** del alumno. Botón WhatsApp del estudiante |
-| PDF del CV | El mismo archivo que mandó, para postulaciones que piden archivo |
+| Página | El PDF del alumno a pantalla + botón WhatsApp de **esa persona** |
 | Tarjeta | PDF 90×50 mm para imprimir, QR del link. AIW no imprime |
 | QR PNG | El mismo QR, suelto, por si lo pegan en otra pieza |
 | Hosting | 12 meses. Después: Gs. 50.000 / año, opcional. Sin mensualidad |

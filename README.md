@@ -1,6 +1,6 @@
 # paragu-ai CV
 
-CV web para estudiantes: **mandan su PDF, nosotros publicamos una página estática** con ese contenido. Una persona, un link, una tarjeta. Sin cuentas, sin panel.
+CV web para estudiantes: **mandan su PDF, la página lo muestra**, más un botón de WhatsApp. Una persona, un link, una tarjeta. Sin cuentas, sin panel.
 
 El estudiante recibe su URL por WhatsApp. La pega en Instagram, LinkedIn o mail, o genera más QRs. Un reclutador abre el link y le escribe por WhatsApp.
 

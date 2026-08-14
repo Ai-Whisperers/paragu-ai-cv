@@ -53,7 +53,7 @@ Cuando esté el comprobante + el PDF, armamos una página con ese CV y te paso e
 
 ```text
 # 1. Guardar people/<slug>/cv.pdf (el archivo del alumno)
-# 2. Extraer contenido del PDF → rellenar templates/page/
+# 2. Copiar templates/page/ — nombre + WhatsApp. El PDF se ve en la página.
 # 3. Publicar la carpeta (URL final = PAGE_URL)
 # 4. QR de esa URL:
 python scripts/make_qr.py "PAGE_URL" -o people/<slug>/qr.png
