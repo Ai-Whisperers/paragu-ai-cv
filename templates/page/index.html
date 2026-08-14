@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{NAME}} — CV web</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="avatar" aria-hidden="true">{{INITIALS}}</div>
+      <div>
+        <h1>{{NAME}}</h1>
+        <p class="role">{{ROLE}}</p>
+        <p class="muted">{{LOCATION}}</p>
+      </div>
+    </header>
+
+    <a class="wa" href="{{WHATSAPP_URL}}">Escribime por WhatsApp</a>
+    <p class="downloads">
+      <a href="{{CV_PDF}}">Descargar CV (PDF)</a>
+      ·
+      <a href="{{CARD_PDF}}">Descargar tarjeta</a>
+    </p>
+
+    <section>
+      <h2>Objetivo</h2>
+      <p>{{OBJECTIVE}}</p>
+    </section>
+    <section>
+      <h2>Educación</h2>
+      <ul>{{EDUCATION}}</ul>
+    </section>
+    <section>
+      <h2>Experiencia</h2>
+      <ul>{{EXPERIENCE}}</ul>
+    </section>
+    <section>
+      <h2>Habilidades</h2>
+      <ul>{{SKILLS}}</ul>
+    </section>
+  </div>
+</body>
+</html>
