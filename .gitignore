@@ -9,3 +9,4 @@ people/*
 !people/README.md
 !people/_template/
 !people/_template/**
+.worktrees/

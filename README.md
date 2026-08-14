@@ -16,6 +16,7 @@ El estudiante recibe su URL por WhatsApp. La pega en Instagram, LinkedIn o mail,
 Docs para Luana: [`docs/LUANA.md`](docs/LUANA.md)  
 Producto: [`docs/PRODUCT.md`](docs/PRODUCT.md)  
 Cómo se arma cada página (PDF → HTML): [`docs/PRODUCTION.md`](docs/PRODUCTION.md)  
+Publicar la demo: [`docs/DEPLOY.md`](docs/DEPLOY.md)  
 Operativa WhatsApp: [`docs/OPS.md`](docs/OPS.md)
 
 ## Cómo está armado
@@ -30,6 +31,13 @@ docs/flyer/         ← copy + QR de WhatsApp para el flyer
 ```
 
 No hay `index.html` de “todos los CVs”. Cada cliente es una carpeta con su `index.html`.
+
+## Demo pública (para Luana / flyer)
+
+https://ai-whisperers.github.io/paragu-ai-cv/
+
+Ese es el CV de Ana Paula Samaniego. Se abre en el celular sin login.
+Publicar / republicar: [`docs/DEPLOY.md`](docs/DEPLOY.md).
 
 ## Vista local de un CV
 
