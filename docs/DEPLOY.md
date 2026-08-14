@@ -11,7 +11,7 @@ GitHub Pages está en **público**. No hace falta cuenta ni invitación al repo.
 
 ## Qué hay online hoy
 
-La página de Ana Paula Samaniego (PDF a la vista + WhatsApp de ella).
+La página de Ana Paula Samaniego (PDF a la vista + WhatsApp + descarga de tarjeta).
 No hay listado de alumnos.
 
 ## Cómo republicar después de un cambio de diseño
@@ -24,7 +24,7 @@ git worktree add .worktrees/gh-pages gh-pages   # solo la primera vez
 ```
 
 Copiá los archivos de `demos/ana-samaniego/` (o del cliente) a la raíz de `.worktrees/gh-pages/`:
-`index.html`, `styles.css`, `cv.pdf`, `cv-page1.png`, más `.nojekyll`.
+`index.html`, `styles.css`, `cv.pdf`, `cv-page1.png`, `tarjeta.pdf`, más `.nojekyll`.
 
 ```text
 cd .worktrees/gh-pages

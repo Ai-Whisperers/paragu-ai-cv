@@ -10,7 +10,7 @@ people/<slug>/
   styles.css
   photo.jpg
   cv.pdf
-  card.pdf
+  tarjeta.pdf     ← PDF 90×50 mm; el botón Tarjeta de la página lo baja
   qr.png          ← QR del link público de esta página
 ```
 

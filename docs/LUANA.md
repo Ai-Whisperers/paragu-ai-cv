@@ -80,6 +80,7 @@ Misma página en el repo: [`demos/ana-samaniego/`](../demos/ana-samaniego/).
 
 - El **PDF del alumno visible** en la página (no solo un link de descarga)
 - Botón **WhatsApp** (link `wa.me` del estudiante)
+- Botón **Tarjeta** (baja `tarjeta.pdf`, 90×50 mm, QR de esa página)
 
 **Podés cambiar:** barra de arriba, colores, tipo, cómo se ve el botón. El CV en sí no se rediseña en v1: se muestra el PDF que mandaron.
 

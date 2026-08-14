@@ -9,7 +9,7 @@ import qrcode
 from qrcode.constants import ERROR_CORRECT_H
 
 
-def write_qr(url: str, dest: Path) -> Path:
+def make_qr_image(url: str):
     qr = qrcode.QRCode(
         version=None,
         error_correction=ERROR_CORRECT_H,
@@ -18,9 +18,12 @@ def write_qr(url: str, dest: Path) -> Path:
     )
     qr.add_data(url)
     qr.make(fit=True)
-    img = qr.make_image(fill_color="black", back_color="white")
+    return qr.make_image(fill_color="black", back_color="white")
+
+
+def write_qr(url: str, dest: Path) -> Path:
     dest.parent.mkdir(parents=True, exist_ok=True)
-    img.save(dest)
+    make_qr_image(url).save(dest)
     return dest
 
 
