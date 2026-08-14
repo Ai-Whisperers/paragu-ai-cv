@@ -20,7 +20,7 @@ Copy fijo (se puede acortar; no se cambia precio ni qué incluye):
 | Precio | **Gs. 200.000** · pago único |
 | Letra chica | Incluye 12 meses de hosting. Sin cuota mensual. |
 | CTA | Escaneá y escribí. Mandá tu CV y en pocos días tenés la página. |
-| Contacto | +595 991 501444 |
+| Contacto | Kyrian Weiss · 0985 724 135 (+595 985 724135) |
 | Marca | AI Whisperers / paragu-ai CV (no “Erebus”) |
 
 **Viñetas (máx. 4):**
@@ -47,7 +47,7 @@ Copy fijo (se puede acortar; no se cambia precio ni qué incluye):
 
 URL del QR 1 (ya está en el PNG):
 
-`https://wa.me/595991501444?text=Hola%2C%20quiero%20un%20CV%20web`
+`https://wa.me/595985724135?text=Hola%2C%20quiero%20un%20CV%20web`
 
 No pongas alias ni banco en el papel. No pongas Gs. 100.000. No pongas “Erebus”.
 

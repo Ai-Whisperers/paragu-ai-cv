@@ -4,7 +4,7 @@ Uso interno. No va en el flyer.
 
 ## Canal
 
-Número que ve el estudiante: **+595 991 501444**  
+Número que ve el estudiante: **0985 724 135** (Kyrian Weiss) · internacional **+595 985 724135**  
 (Erebus puede ruteear atrás; en el papel y en el chat sale un solo número.)
 
 ## Flujo
